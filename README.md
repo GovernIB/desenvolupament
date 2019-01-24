@@ -13,3 +13,8 @@ Documentació de Desenvolupament d'Aplicacions CAIB
     * Documentació: es trobarà al directori doc de cada projecte
 
 Els projectes que tengui codi en el master el maouran a una pranca [producte]_master 
+
+
+(2) Normativa específica GitHUb de desenvolupament d'aplicacions: http://governib.github.io/
+
+
