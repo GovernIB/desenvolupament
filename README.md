@@ -10,7 +10,7 @@ Documentació de Desenvolupament d'Aplicacions CAIB
     * Descripció
     * Versió estable
     * Branca de desenvolupament
-    * Documentació: es trobarà al directori doc de cada projecte
+    * Documentació: es trobarà una descripció de la documentació de cada projecte en el readme.md arrel de cada projecte.
 
 Els projectes que tengui codi en el master el maouran a una pranca [producte]_master 
 
