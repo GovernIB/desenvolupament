@@ -17,4 +17,4 @@ Els projectes que tengui codi en el master el maouran a una pranca [producte]_ma
 
 (2) Normativa específica GitHUb de desenvolupament d'aplicacions: http://governib.github.io/
 
-
+(3) Fer ús de Issues (milestones i labels) i projects !!!
